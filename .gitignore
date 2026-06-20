@@ -1,0 +1,14 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code Jupyter files
+.virtual_documents/
+
+# Anaconda project files
+.anaconda_projects
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
