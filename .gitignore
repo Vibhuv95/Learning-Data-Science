@@ -4,10 +4,10 @@
 # VS Code Jupyter files
 .virtual_documents/
 
-# Anaconda project files
-.anaconda_projects
+# Ignore all anaconda project folders
+**/anaconda_projects/
 
-# Python cache files
+# Python cache
 __pycache__/
 *.pyc
 *.pyo
