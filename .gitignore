@@ -12,3 +12,12 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
+
+#pdfs
+Pandas-Handbook.pdf
+sqlhandbook.pdf
+IntroductiontoDeepLearningandNeuralNetworks.pdf
+
+#model files 
+model.pkl
+pipeline.pkl
