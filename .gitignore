@@ -12,6 +12,7 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
+tempCodeRunnerFile.py
 
 #pdfs
 Pandas-Handbook.pdf
