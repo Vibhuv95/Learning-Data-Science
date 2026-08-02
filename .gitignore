@@ -22,3 +22,6 @@ IntroductiontoDeepLearningandNeuralNetworks.pdf
 #model files 
 model.pkl
 pipeline.pkl
+
+#extra files
+iris-test.xlsx
